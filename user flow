@@ -1,0 +1,20 @@
+1.) When user clicks app icon, the system shall display app’s main screen.
+2.) When the user is on the main page, main page shall have three functions “Work Out”, “Cut or Bulk” and “food log.”
+3.)  When the user clicks on Work Out, the system shall display a new page with different muscle groups to pick from. 
+4.) When the user clicks on the muscle they want to work on, the system shall display workouts for specific muscle. 
+5.) When the user clicks on the work out, the system shall display a short video on how to do the work out. 
+6.) When user clicks back, system shall display main page.
+7.) When user clicks cut or bulk, system shall display a new page where you can fill in what you want to do either cut down or bulk up. 
+8.) When the user is done choosing, the system shall display a new screen where the user should input their information such as height, weight, and gender.
+9.) When the user is done inputting the information, the system shall display a new screen where it shows how many calories, protein, fat, and carbs user should have throughout the day. 
+10.) User then has two options clear or done. If the user clicks clear, the system shall clear the page and let user choice from begging to either cut or bulk. 
+11.) If the user clicked done, the system shall display a new screen saying good luck with your journey and send the information to the food log page. 
+12.) User then would click back button, and the system shall return to the main page. 
+13.) If User clicks on food log, the system shall display a new page with a time log. 
+14.) When the user is done eating, they would click on the time they ate, the system shall display a pop up that asks for the calories, protein, fat, and carbs. 
+15.) When user has is done inputting the information, the system shall refresh and on the top of page will display the remaining number of calories, carbs, protein, and fat left.
+16.) If user is unsure of the macros of the food they would click on top corner “Help”, the system shall display a search bar. 
+17.) The user will then search for the food; the system shall display the information the user needs. 
+18.)  When the user is done with that day they click done, system shall save the information and go to the next day. 
+19.) When the user is done, they will click the back button, system shall return to the main page. 
+
